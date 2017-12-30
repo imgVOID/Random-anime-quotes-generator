@@ -4,7 +4,8 @@ $(document).ready(function() {
   
   $('#title').addClass('animated bounceInDown');
   $('.mainContent').addClass('animated bounceInLeft');
-  $('.buttonsHolder').addClass('animated bounceInRight');
+  $('#twitter').addClass('animated bounceInRight');
+  $('#getMessage').addClass('animated bounceInRight');
   $('.myName').addClass('animated flipInY');
   $('.myName').hover(
     function() {
