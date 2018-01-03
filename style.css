@@ -103,5 +103,10 @@
   .sentence {
     font-size: 1.5em;
   }
+  .image {
+    right: 0em;
+  }
+  .myName a {
+    font-size: 0.60em;
+  }
 }
-
